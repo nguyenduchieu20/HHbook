@@ -8,9 +8,6 @@ html, body{
     width: 100%;
     height: 100%;
 }
-a{
-  color:none;
-}
 .flex{
   display: flex;
 }
@@ -316,9 +313,6 @@ ul.menu>li>a:hover{
 }
 ul.menu>li>a:visited{
     color:white;
-}
-ul.menu>li>a:start{
-  color:white;
 }
 /*SUBMENU*/
 .subcontent{
